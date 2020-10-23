@@ -242,7 +242,7 @@ You can use the `&layout=compact` option to change the card design.
 
 - Default
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api=anuraghazra)
 
 - Hiding specific stats
 
